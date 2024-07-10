@@ -1,0 +1,1 @@
+This repository contains the code for a data imputation assignment for the Artificial Intelligence (AI) subject. The objective of this assignment is to implement a method for imputing missing values in a dataset using various models. Data imputation is an important preprocessing step in data analysis and machine learning, as missing values can adversely affect model performance.
